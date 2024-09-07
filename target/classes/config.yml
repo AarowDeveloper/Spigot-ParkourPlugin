@@ -1,0 +1,8 @@
+MYSQL:
+  HOST: localhost
+  PORT: 3306
+  DATABASE: "parkourdb"
+  AUTHENTICATION:
+    ENABLED: true
+    USERNAME: "root"
+    PASSWORD: "root"
